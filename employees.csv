@@ -1,8 +1,0 @@
-emp_id,name,department,salary,avg_score,rating,team_size
-E001,Mani,Quality Assurance,45000.0,73.33,C,
-E002,Dinesh,Quality Assurance,30000.0,65.0,C,
-E003,Security,Security,45000.0,78.33,B,
-E004,Indra,IT services,60000.0,85.67,B,
-E005,Jai,Product Management,100000.0,96.67,A,
-E006,Komal,Financial Accounting,45000.0,53.0,D,
-E007,Vijay,Product Management,150000.0,105.38,A,30.0
